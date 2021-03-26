@@ -1,3 +1,14 @@
+<img src="imgs/img0.png" width="1000">
+
+___
+<br><br>
+
+<img src="imgs/img1.png" width="1000">
+
+<br><br>
+
+<img src="imgs/img2.png" width="1000">
+
 # Git
 
 ## Global Settings
