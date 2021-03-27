@@ -156,7 +156,7 @@ Merge only one specific commit:
 `git cherry-pick 073791e7`
 
 Rebase:
-`git checkout branchname` » `git rebase master`
+`git checkout branchname` Â» `git rebase master`
 or:
 `git merge master branchname`
 (The rebase moves all of the commits in `master` onto the tip of `branchname`.)
@@ -213,6 +213,9 @@ Track empty dir:
 `touch dir/.gitkeep`
 
 ## Log
+Show files commited to the Local Repository:
+`git ls-files`
+
 Show commits:
 `git log`
 
